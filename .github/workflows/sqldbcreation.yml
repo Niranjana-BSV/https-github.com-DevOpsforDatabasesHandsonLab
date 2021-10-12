@@ -10,8 +10,8 @@ on:
 env:
   AZURE_RESOURCE_GROUP: nirusqlholactions               # set this to your Azure Resource group's name  
   AZURE_LOCATION: eastus                         # set this to your azure resource group location   
-  AZURE_SQL_SERVERNAME: nirusqlserver         # set SQL Server  
-  AZURE_SQL_DATABASE: nirusqldb    # set sqladmin user
+  AZURE_SQL_SERVERNAME: nirusqlserver123         # set SQL Server  
+  AZURE_SQL_DATABASE: nirusqldb15    # set sqladmin user
   AZURE_SQLFIREWALL_IP: 0.0.0.0    # set this to all Azure IPs
   
 
