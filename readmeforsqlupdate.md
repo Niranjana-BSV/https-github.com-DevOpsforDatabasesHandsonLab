@@ -1,1 +1,1 @@
-Update SQL Database schema as per dacpac file
+SQL DB Updation
