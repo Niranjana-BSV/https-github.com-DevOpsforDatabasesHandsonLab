@@ -10,7 +10,7 @@ on:
 env:
   AZURE_RESOURCE_GROUP: niruRG
   AZURE_LOCATION: eastus   
-  AZURE_SQL_SERVERNAME: niru-sql-server  
+  AZURE_SQL_SERVERNAME: niru-sql-server-33452  
   AZURE_SQL_DATABASE: niru-sql-db
   AZURE_SQLFIREWALL_IP: 0.0.0.0
   
