@@ -8,10 +8,10 @@ on:
       - readmeservicecreate.md
 
 env:
-  AZURE_RESOURCE_GROUP: nirusqlholactions 
+  AZURE_RESOURCE_GROUP: niruRG
   AZURE_LOCATION: eastus   
-  AZURE_SQL_SERVERNAME: nirueastussqlserver15  
-  AZURE_SQL_DATABASE: nirusqldb15
+  AZURE_SQL_SERVERNAME: niru-sql-server  
+  AZURE_SQL_DATABASE: niru-sql-db
   AZURE_SQLFIREWALL_IP: 0.0.0.0
   
 
