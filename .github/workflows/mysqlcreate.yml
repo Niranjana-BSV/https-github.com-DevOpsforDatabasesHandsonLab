@@ -8,10 +8,10 @@ on:
     - 'readmeformysql.md' 
 
 env:
-  AZURE_RESOURCE_GROUP: nirumysqlholactions     # set this to your Azure Resource group's name  
+  AZURE_RESOURCE_GROUP: niru-mysql-rg     # set this to your Azure Resource group's name  
   AZURE_LOCATION: eastus                         # set this to your azure resource group location   
-  AZURE_MYSQL_SERVERNAME: nirumysqlholactions   # set MYSQL Server  
-  AZURE_MYSQL_DATABASE: nirumysqlholactions     # set MYSQL Databsae
+  AZURE_MYSQL_SERVERNAME: niru-mysql-server   # set MYSQL Server  
+  AZURE_MYSQL_DATABASE: niru-mysql-db     # set MYSQL Databsae
   AZURE_MYSQLFIREWALL_IP: 0.0.0.0                # set this to all Azure IPs
   
 
