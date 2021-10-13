@@ -1,1 +1,1 @@
-  HOL for creation of Postgres Database on Azure
+Creation of Postgres Database on Azure
