@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.23, for Win64 (x86_64)
 --
--- Host: vijaymysqldbserver.mysql.database.azure.com    Database: vijaymysqldatabase
+-- Host: niru-mysql-server.mysql.database.azure.com    Database: niru-mysql-db
 -- ------------------------------------------------------
 -- Server version	5.6.47.0
 
