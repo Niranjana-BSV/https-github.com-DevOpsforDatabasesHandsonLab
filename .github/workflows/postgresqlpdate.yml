@@ -7,7 +7,7 @@ on:
     paths:
     - readmeforpostgresqlupdate.md
 env:
-  AZURE_POSTGRESQL_SERVERNAME: vijaypostgreholactions.postgres.database.azure.com 
+  AZURE_POSTGRESQL_SERVERNAME: niru-postgres-sql-server.postgres.database.azure.com 
 
 jobs:
   postgresdbupdate:
