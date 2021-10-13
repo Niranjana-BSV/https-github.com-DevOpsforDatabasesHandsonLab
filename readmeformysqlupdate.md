@@ -1,1 +1,1 @@
-  Update My SQL Database using sql script
+  Updating My SQL Database using sql script
