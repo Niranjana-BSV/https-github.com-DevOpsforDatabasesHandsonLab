@@ -13,8 +13,8 @@ env:
   AZURE_MYSQL_SERVERNAME: niru-java-mysql-server      # set MYSQL Server  
   AZURE_MYSQL_DATABASE: niru-java-mysql-db                      # set MYSQL Databsae
   AZURE_MYSQLFIREWALL_IP: 0.0.0.0                # set this to all Azure IPs
-  APPPLAN: niru-java-mysql-app-plan
-  APPSERVICE: niru-java-mysql-app-service
+  APPPLAN: niru-java-mysql-plan
+  APPSERVICE: niru-java-mysql-service
   
 
 jobs:
