@@ -8,11 +8,11 @@ on:
     - 'readmedservicecreation.md' 
 
 env:
-  RESOURCEGROUP: vijaydjangopostgreshol
-  APPPLAN: vijaydjangopostgreshol
-  APPSERVICE: vijaydjangopostgreshol
-  POSTGRESSERVER: vijaydjangopostgreshol
-  POSTGRESDB: pollsdb
+  RESOURCEGROUP: niru-django-postgres-rg
+  APPPLAN: niru-django-postgres-app-plan
+  APPSERVICE: niru-django-postgres-app-service
+  POSTGRESSERVER: niru-django-postgres-server
+  POSTGRESDB: niru-django-postgres-db
   LOCATION: eastus
   ALLOWCLIENTIP: 0.0.0.0
 
